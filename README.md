@@ -16,3 +16,5 @@ SteamFriendsPatcher открываем архив и устанавливаем 
 как скачать файлы?
 
 ![image](https://user-images.githubusercontent.com/38975320/157385483-2f981c67-9082-44e7-af21-b1c6c4545874.png)
+
+![image](https://user-images.githubusercontent.com/38975320/157385578-6e22d02c-f919-41b1-928e-5cad189cb438.png)
