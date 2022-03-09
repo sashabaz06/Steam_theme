@@ -1,1 +1,14 @@
-# Steam_theme
+---------------------------------
+Fritz_black_skin нужно перенести в папку 
+C:\Program Files (x86)\Steam\skins
+
+файлы из Libruary_theme (нужно только файлы саму папку не кидаем) устанавливаем в 
+C:\Program Files (x86)\Steam\steamui
+
+файлы из Friend_theme (нужно только файлы саму папку не кидаем) устанавливаем в
+C:\Program Files (x86)\Steam\clientui
+
+SteamFriendsPatcher открываем архив и устанавливаем программу
+
+Готово! У тебя новый, красивый Стим
+---------------------------------
